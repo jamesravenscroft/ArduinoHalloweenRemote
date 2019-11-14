@@ -44,5 +44,8 @@ I plugged in the props to a breadboard and assigned a pin to start and electrica
 
 So there was a bit of learning in the electrical field that had to happen:
 Arduino USB ports burn out under very little electrical overload. 
+![Image of Yaktocat](https://github.com/jamesravenscroft/ArduinoHalloweenRemote/blob/master/IMG_7736.jpeg)
+![Image of Yaktocat](https://github.com/jamesravenscroft/ArduinoHalloweenRemote/blob/master/arduinoElec.jpg)
+
   I got really excited when I had the code and the props and the breadboard, I had the Arduino running power off the USB connection, I press the remote button and suddenly the port isn't recongizable. I wasn't sure what the issue was, the driver had given me some issues before so I thought that was it.
   I just bought another Arduino, similar problem. I figured it out and ordered some more boards and transistors.
