@@ -42,7 +42,7 @@ void loop() {
 From there we need to import the remote Data (coming soon).
 I plugged in the props to a breadboard and assigned a pin to start and electrical charge when Button 1 was pressed, and Turn off when Button 2 was pressed. 
 
-So there was a bit of learning in the electrical field that had to happen:
+## So there was a bit of learning in the electrical field that had to happen:
 Arduino USB ports burn out under very little electrical overload. 
 ![Main Controlles](https://github.com/jamesravenscroft/ArduinoHalloweenRemote/blob/master/IMG_7736.jpeg)
 ![Resistors](https://github.com/jamesravenscroft/ArduinoHalloweenRemote/blob/master/arduinoElec.jpg)
@@ -51,4 +51,4 @@ Arduino USB ports burn out under very little electrical overload.
   I just bought another Arduino, similar problem. I figured it out and ordered some more boards and transistors.
 
 
-![Vid1](https://github.com/jamesravenscroft/ArduinoHalloweenRemote/blob/master/IMG-7903.mov)
+![Vid1](https://vimeo.com/user50441192/review/373816649/12dd5844f9)
