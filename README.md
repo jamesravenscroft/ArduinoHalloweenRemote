@@ -50,5 +50,5 @@ Arduino USB ports burn out under very little electrical overload.
   I got really excited when I had the code and the props and the breadboard, I had the Arduino running power off the USB connection, I press the remote button and suddenly the port isn't recongizable. I wasn't sure what the issue was, the driver had given me some issues before so I thought that was it.
   I just bought another Arduino, similar problem. I figured it out and ordered some more boards and transistors.
 
-
-![Vid1](https://vimeo.com/user50441192/review/373816649/12dd5844f9)
+## Checkout the current set up we're going to add computer magics to:
+https://vimeo.com/user50441192/review/373816649/12dd5844f9
